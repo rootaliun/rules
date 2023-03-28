@@ -4,5 +4,9 @@ payload:
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,auth0.openai.com
   - DOMAIN-SUFFIX,platform.openai.com
-  - # Add ai.com
   - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,gvt3.com
+  - DOMAIN-SUFFIX,gvt4.com
+  - DOMAIN-SUFFIX,gstatic.com
