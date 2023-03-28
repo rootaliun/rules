@@ -16569,9 +16569,6 @@ payload:
   - DOMAIN-SUFFIX,getquicker.net
   - DOMAIN-SUFFIX,qq.net
   - DOMAIN-SUFFIX,qq.com
-  - DOMAIN-SUFFIX,bitbrowser.cn
-  - DOMAIN-SUFFIX,bitbrowser.com
-  - DOMAIN-SUFFIX,bitbrowser.net
   - DOMAIN-SUFFIX,er.run
   - DOMAIN-SUFFIX,seatable.cn
   - DOMAIN-SUFFIX,alipay.com
