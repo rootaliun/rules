@@ -1,4 +1,4 @@
- - DOMAIN-SUFFIX,mobileanjian.cn,🇨🇳Proxy
+  - DOMAIN-SUFFIX,mobileanjian.cn,🇨🇳Proxy
   - DOMAIN-SUFFIX,mobileanjian.com,🇨🇳Proxy
   - DOMAIN-SUFFIX,touchsprite.com,🇨🇳Proxy
   - DOMAIN-SUFFIX,touchsprite.cn,🇨🇳Proxy
