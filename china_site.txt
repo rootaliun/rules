@@ -129,7 +129,6 @@ payload:
   - DOMAIN-SUFFIX,youmi.net
   - DOMAIN-SUFFIX,zhiziyun.com
   - DOMAIN-SUFFIX,segment.com
-  - null
   - DOMAIN-SUFFIX,ad.sina.com.cn
   - DOMAIN-SUFFIX,adm.leju.sina.com.cn
   - DOMAIN-SUFFIX,atm.sina.com
@@ -137,7 +136,6 @@ payload:
   - DOMAIN-SUFFIX,sax.sina.cn
   - DOMAIN-SUFFIX,sax.sina.com.cn
   - DOMAIN-SUFFIX,tjs.sjs.sinajs.cn
-  - null
   - DOMAIN-SUFFIX,c.biz.weibo.com
   - DOMAIN-SUFFIX,game.weibo.com
   - DOMAIN-SUFFIX,c.wcpt.biz.weibo.com
@@ -157,10 +155,8 @@ payload:
   - DOMAIN-SUFFIX,wbpctips.mobile.sina.cn
   - DOMAIN-SUFFIX,ota.pay.mobile.sina.cn
   - DOMAIN-SUFFIX,pay.mobile.sina.cn
-  - null
   - DOMAIN-SUFFIX,gorgon.youdao.com
   - DOMAIN-SUFFIX,impservice.youdao.com
-  - null
   - DOMAIN-SUFFIX,ad.m.iqiyi.com
   - DOMAIN-SUFFIX,afp.iqiyi.com
   - DOMAIN-SUFFIX,api.cupid.iqiyi.com
