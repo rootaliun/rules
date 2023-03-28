@@ -1,3 +1,19 @@
+ - DOMAIN-SUFFIX,mobileanjian.cn,🇨🇳Proxy
+  - DOMAIN-SUFFIX,mobileanjian.com,🇨🇳Proxy
+  - DOMAIN-SUFFIX,touchsprite.com,🇨🇳Proxy
+  - DOMAIN-SUFFIX,touchsprite.cn,🇨🇳Proxy
+  - DOMAIN-SUFFIX,jianshu.cn,🇨🇳Proxy
+  - DOMAIN-SUFFIX,jianshu.com,🇨🇳Proxy
+  - DOMAIN-SUFFIX,csdn.net,🇨🇳Proxy
+  - DOMAIN-SUFFIX,csdn.cn,🇨🇳Proxy
+  - DOMAIN-SUFFIX,csdn.com,🇨🇳Proxy
+  - DOMAIN-SUFFIX,itellyou.cn,🇨🇳Proxy
+  - DOMAIN-SUFFIX,itellyou.cn,🇨🇳Proxy
+  - DOMAIN-SUFFIX,kuaifaka.cn,🇨🇳Proxy
+  - DOMAIN-SUFFIX,touchelf.net,🇨🇳Proxy
+  - DOMAIN-SUFFIX,zorrox.cn,🇨🇳Proxy
+  - DOMAIN-SUFFIX,ios333.com,🇨🇳Proxy
+  - DOMAIN-SUFFIX,shimo.im,🇨🇳Proxy
   - DOMAIN-SUFFIX,dkxuanye.cn,🇨🇳Proxy
   - DOMAIN-SUFFIX,lxg2016.com,🇨🇳Proxy
   - DOMAIN-SUFFIX,jb51.net,🇨🇳Proxy
@@ -12,4 +28,5 @@
   - DOMAIN-SUFFIX,todesk.net,🇨🇳Proxy
   - DOMAIN-SUFFIX,oray.com,🇨🇳Proxy
   - DOMAIN-SUFFIX,abcydia.com,🇨🇳Proxy
-  - DOMAIN-SUFFIX,zillow.com,🌐Direct
+
+
