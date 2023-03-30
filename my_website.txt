@@ -1,7 +1,8 @@
 payload:
-  - DOMAIN-SUFFIX,adspower.cn
-  - DOMAIN-SUFFIX,adspower.net
-  - DOMAIN-SUFFIX,adspower.com
   - DOMAIN-SUFFIX,bitbrowser.cn
   - DOMAIN-SUFFIX,bitbrowser.com
   - DOMAIN-SUFFIX,bitbrowser.net
+  - DOMAIN-SUFFIX,adspower.cn
+  - DOMAIN-SUFFIX,adspower.net
+  - DOMAIN-SUFFIX,adspower.com
+
