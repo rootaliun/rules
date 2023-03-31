@@ -6,3 +6,4 @@ payload:
   - '+.sps-system.com'
   - '+.logly.co.jp'
   - '+.google.co.jp'
+  - '+.globalsign.com'
