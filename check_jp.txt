@@ -1,1 +1,8 @@
 
+payload:
+  - '+.epsilon.jp'
+  - '+.furupay.jp/client_info'
+  - '+.member_credit_entry.html'
+  - '+.sps-system.com'
+  - '+.logly.co.jp'
+  - '+.google.co.jp'
