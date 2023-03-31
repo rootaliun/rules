@@ -121,7 +121,7 @@ rule-providers:
   jp_check:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/rootaliun/rules/main/jp.txt
+    url: https://raw.githubusercontent.com/rootaliun/rules/main/jp.txt?token=GHSAT0AAAAAAB7WGBSHR2CIDHGT3LTS676SZBHBXIQ
     interval: 3600
 
 rules:
