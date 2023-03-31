@@ -1,0 +1,129 @@
+ # 定义代理服务器组
+proxies:
+
+
+  - name: futoka-103.244.44.19
+    type: socks5
+    server: 103.244.44.19
+    port: "38520"
+    
+  - name: gmocloud-153.122.197.96
+    type: socks5
+    server: 153.122.197.96
+    port: "2080"
+
+  - name: gmocloud-153.122.196.25
+    type: socks5
+    server: 153.122.196.25
+    port: "2080"
+
+  - name: gmocloud-153.122.197.99
+    type: socks5
+    server: 153.122.197.99
+    port: "2080"
+
+  - name: gmocloud-153.122.197.111
+    type: socks5
+    server: 153.122.197.111
+    port: "2080"
+
+  - name: gmocloud-153.122.196.40
+    type: socks5
+    server: 153.122.196.40
+    port: "2080"
+
+  - name: gmocloud-153.122.199.61
+    type: socks5
+    server: 153.122.199.61
+    port: "2080"
+
+  - name: gmocloud-153.122.199.60
+    type: socks5
+    server: 153.122.199.61
+    port: "2080"
+    
+  - name: 🇯🇵trojan-153.122.199.60
+    type: socks5
+    server: 192.168.7.177
+    port: "1088"
+    
+  - name: "US-5G"
+    type: socks5
+    server: 23.94.144.106
+    port: 30936
+    cipher: hVgRC4YGVj
+    password: XoyytSoBXYONuIA8
+
+  - name: "US-changeip-4G"
+    type: socks5
+    server: x80.fxdx.in
+    port: 15909
+    cipher: us54
+    password: 7762163
+
+  - name: "JP-4G"
+    type: socks5
+    server: 51.68.138.50
+    port: 28649
+    cipher: ocOKXakGcH
+    password: 0SXM4qScUlYwQDCa
+
+    
+proxy-groups:
+# 日本代理部分
+  - name: 🌐Direct
+    type: select
+    proxies:
+      - DIRECT
+  - name: ⛔️Reject
+    type: select
+    proxies:
+      - REJECT
+  - name: ♻️自动选择🇯🇵
+    type: url-test
+    url: https://www.apple.com/library/test/success.html
+    interval: 300
+    tolerance: 500
+    timeout: 2000
+    proxies:
+      - futoka-103.244.44.19
+      - gmocloud-153.122.197.96
+      - gmocloud-153.122.196.25
+      - gmocloud-153.122.197.99
+      - gmocloud-153.122.197.111
+      - gmocloud-153.122.196.40
+      - gmocloud-153.122.199.61
+      - gmocloud-153.122.199.60
+      - 🇯🇵trojan-153.122.199.60
+      - US-changeip-4G
+      - US-5G
+      - JP-4G
+
+  - name: 🇯🇵跑卡网站选择
+    type: select
+    proxies:
+      - futoka-103.244.44.19
+      - gmocloud-153.122.197.96
+      - gmocloud-153.122.196.25
+      - gmocloud-153.122.197.99
+      - gmocloud-153.122.197.111
+      - gmocloud-153.122.196.40
+      - gmocloud-153.122.199.61
+      - gmocloud-153.122.199.60
+      - 🇯🇵trojan-153.122.199.60
+      - US-changeip-4G
+      - US-5G
+      - JP-4G
+      - ♻️自动选择🇯🇵
+   
+rule-providers:
+  # 自定义网站 走自选代理,比如比特浏览器,adspower  my_website.txt
+  jp_check:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/rootaliun/rules/main/jp.txt
+    interval: 3600
+
+rules:
+   - RULE-SET,jp_check,🇯🇵跑卡网站选择
+   - MATCH,🌐Direct
