@@ -1,7 +1,5 @@
  # 定义代理服务器组
 proxies:
-
-
   - name: futoka-103.244.44.19
     type: socks5
     server: 103.244.44.19
@@ -43,25 +41,25 @@ proxies:
     port: "2080"
     
   - name: 🇯🇵trojan-153.122.199.60
-    type: socks5
+    type: http
     server: 192.168.7.177
     port: "1088"
     
-  - name: "US-5G"
-    type: socks5
+  - name: "US_5G"
+    type: http
     server: 23.94.144.106
     port: 30936
     cipher: hVgRC4YGVj
     password: XoyytSoBXYONuIA8
 
-  - name: "US-changeip-4G"
-    type: socks5
+  - name: "US_change_4G"
+    type: http
     server: x80.fxdx.in
     port: 15909
     cipher: us54
     password: 7762163
 
-  - name: "JP-4G"
+  - name: "JP_4G"
     type: socks5
     server: 51.68.138.50
     port: 28649
@@ -111,9 +109,9 @@ proxy-groups:
       - gmocloud-153.122.199.61
       - gmocloud-153.122.199.60
       - 🇯🇵trojan-153.122.199.60
-      - US-changeip-4G
-      - US-5G
-      - JP-4G
+      - US_5G
+      - US_change_4G
+      - JP_4G
       - ♻️自动选择🇯🇵
    
 rule-providers:
