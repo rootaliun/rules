@@ -49,21 +49,21 @@ proxies:
     type: http
     server: 23.94.144.106
     port: 30936
-    cipher: hVgRC4YGVj
+    username: hVgRC4YGVj
     password: XoyytSoBXYONuIA8
 
   - name: "US_change_4G"
     type: http
     server: x80.fxdx.in
     port: 15909
-    cipher: us54
+    username: us54
     password: 7762163
 
   - name: "JP_4G"
     type: socks5
     server: 51.68.138.50
     port: 28649
-    cipher: ocOKXakGcH
+    username: ocOKXakGcH
     password: 0SXM4qScUlYwQDCa
 
     
