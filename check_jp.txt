@@ -1,5 +1,7 @@
 
 payload:
+  - '+.naturallounge.jp/shopping'
+  - '+.naturallounge.jp/shopping/confirm'
   - '+.epsilon.jp'
   - '+.furupay.jp/client_info'
   - '+.member_credit_entry.html'
