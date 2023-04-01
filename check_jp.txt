@@ -7,3 +7,4 @@ payload:
   - '+.logly.co.jp'
   - '+.google.co.jp'
   - '+.globalsign.com'
+  - '+.ip-api.com'
