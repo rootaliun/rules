@@ -1,7 +1,13 @@
 
 payload:
+# 支付系统
+  - '+.mul-pay.jp'
+  
+  
   - '+.naturallounge.jp/shopping'
   - '+.naturallounge.jp/shopping/confirm'
+  - '+.yahoo.co.jp'
+  - '+.yimg.jp'
   - '+.fontawesome.com'
   - '+.nakanohito.jp'
   - '+.epsilon.jp'
