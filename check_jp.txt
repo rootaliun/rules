@@ -1,9 +1,7 @@
 
 payload:
-# 
   - '+.mul-pay.jp'
-  
-  
+
   - '+.naturallounge.jp/shopping'
   - '+.naturallounge.jp/shopping/confirm'
   - '+.yahoo.co.jp'
