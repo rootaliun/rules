@@ -1,6 +1,6 @@
 
 payload:
-# 支付系统
+# 
   - '+.mul-pay.jp'
   
   
