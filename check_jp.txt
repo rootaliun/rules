@@ -1,5 +1,7 @@
 
 payload:
+  - '+.tds2gw.gmopg.jp'
+  - '+.manage.tds2gw.gmopg.jp'
   - '+.gmopg.jp'
   - '+.cafis-paynet.jp'
   - '+.paynet.jp'
