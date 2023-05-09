@@ -1,5 +1,13 @@
 
 payload:
+  - '+.line-scdn.net'
+  - '+.d2-apps.net'
+  - '+.yjtag.jp'
+  - '+.criteo.net'
+  - '+.googletagmanager.com'
+  - '+.criteo.com'
+  - '+.googleapis.com'
+  - '+.criteo.net'
   - '+.gmopg.jp'
   - '+.cafis-paynet.jp'
   - '+.paynet.jp'
