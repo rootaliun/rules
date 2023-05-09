@@ -1,11 +1,11 @@
 
 payload:
-  - '+.tds2gw.gmopg.jp'
-  - '+.manage.tds2gw.gmopg.jp'
   - '+.gmopg.jp'
   - '+.cafis-paynet.jp'
   - '+.paynet.jp'
   - '+.cafis-paynet.jp'
+  - '+.tds2gw.gmopg.jp'
+  - '+.manage.tds2gw.gmopg.jp'
   - '+.paynet.jp'
   - '+.mul-pay.jp'
   - '+.analytics.com'
