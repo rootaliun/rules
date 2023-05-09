@@ -1,5 +1,10 @@
 
 payload:
+  - '+.gmopg.jp'
+  - '+.cafis-paynet.jp'
+  - '+.paynet.jp'
+  - '+.cafis-paynet.jp'
+  - '+.paynet.jp'
   - '+.mul-pay.jp'
   - '+.analytics.com'
   - '+.naturallounge.jp/shopping'
