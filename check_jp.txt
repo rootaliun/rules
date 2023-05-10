@@ -29,3 +29,6 @@ payload:
   - '+.globalsign.com'
   - '+.gvt1.com'
   - '+.clarity.ms'
+  - '+.googletagmanager.com'
+  - '+.google-analytics.com'
+  - '+.googleapis.com'
