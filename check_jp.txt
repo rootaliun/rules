@@ -4,6 +4,7 @@ payload:
   - '+.yjtag.jp'
   - '+.criteo.com'
   - '+.criteo.net'
+  - '+.ladsp.com'
   - '+.gmopg.jp'
   - '+.cafis-paynet.jp'
   - '+.paynet.jp'
