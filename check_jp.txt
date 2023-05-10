@@ -7,6 +7,7 @@ payload:
   - '+.ladsp.com'
   - '+.gmopg.jp'
   - '+.cafis-paynet.jp'
+  - '+.nr-data.net'
   - '+.paynet.jp'
   - '+.cafis-paynet.jp'
   - '+.tds2gw.gmopg.jp'
