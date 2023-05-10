@@ -1,9 +1,7 @@
-
 payload:
   - '+.line-scdn.net'
   - '+.d2-apps.net'
   - '+.yjtag.jp'
-  - '+.criteo.net'
   - '+.criteo.com'
   - '+.criteo.net'
   - '+.gmopg.jp'
@@ -27,3 +25,5 @@ payload:
   - '+.sps-system.com'
   - '+.logly.co.jp'
   - '+.globalsign.com'
+  - '+.gvt1.com'
+  - '+.clarity.ms'
