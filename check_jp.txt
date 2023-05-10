@@ -32,3 +32,8 @@ payload:
   - '+.googletagmanager.com'
   - '+.google-analytics.com'
   - '+.googleapis.com'
+  - '+.kuronekoyamato.co.jp'
+  - '+.paysec-3dssvgw.com'
+  - '+.3dssvgw.com'
+  - '+.paypal.com'
+
