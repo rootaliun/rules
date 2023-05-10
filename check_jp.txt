@@ -28,3 +28,4 @@ payload:
   - '+.logly.co.jp'
   - '+.globalsign.com'
   - '+.gvt1.com'
+  - '+.clarity.ms'
