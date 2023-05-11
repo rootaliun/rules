@@ -17,8 +17,6 @@ payload:
   - '+.analytics.com'
   - '+.naturallounge.jp/shopping'
   - '+.naturallounge.jp/shopping/confirm'
-  - '+.yahoo.co.jp'
-  - '+.yimg.jp'
   - '+.fontawesome.com'
   - '+.nakanohito.jp'
   - '+.epsilon.jp'
