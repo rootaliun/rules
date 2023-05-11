@@ -33,7 +33,4 @@ payload:
   - '+.paysec-3dssvgw.com'
   - '+.3dssvgw.com'
   - '+.paypal.com'
-  - '+.googletagmanager.com'
-  - '+.google-analytics.com'
-  - '+.googleapis.com'
 
