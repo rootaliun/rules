@@ -16,7 +16,6 @@ payload:
   - '+.mul-pay.jp'
   - '+.analytics.com'
   - '+.naturallounge.jp/shopping'
-  - '+.naturallounge.jp/shopping/confirm'
   - '+.fontawesome.com'
   - '+.nakanohito.jp'
   - '+.epsilon.jp'
