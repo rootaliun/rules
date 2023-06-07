@@ -1,4 +1,6 @@
 payload:
+  - '+.fraudprevention.jp'
+  - '+.datadoghq.com'
   - '+.makeshop.jp'
   - '+.line-scdn.net'
   - '+.d2-apps.net'
