@@ -1,4 +1,5 @@
 payload:
+  - '+.makeshop.jp'
   - '+.line-scdn.net'
   - '+.d2-apps.net'
   - '+.yjtag.jp'
