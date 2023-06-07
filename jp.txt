@@ -1,4 +1,5 @@
 payload:
+  - '+.makeshop.jp'
   - '+.shop.whisk-e.co.jp'
   - '+.awa.fm'
   - '+.kendo-bou-gu.com'
