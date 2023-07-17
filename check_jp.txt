@@ -1,4 +1,5 @@
 payload:
+  - '+.ricepointconnect.com'
   - '+.fraudprevention.jp'
   - '+.datadoghq.com'
   - '+.makeshop.jp'
