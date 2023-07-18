@@ -1,0 +1,11 @@
+payload:
+  - '+.ricepointconnect.com'
+  - '+.facebook.com'
+  - '+.pagespeed-mod.com'
+  - '+.google-analytics.com'
+  - '+.gscriptcdn.net'
+  - '+.facebook.net'
+  - '+.doubleclick.net'
+  - '+.gstatic.com'
+  - '+.gstatic.com'
+    
