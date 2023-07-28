@@ -7,5 +7,5 @@ payload:
   - '+.facebook.net'
   - '+.doubleclick.net'
   - '+.gstatic.com'
-  - '+.gstatic.com'
-    
+  - '+.googleapis.com'
+  - '+.google.com'
