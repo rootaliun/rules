@@ -1,9 +1,9 @@
 payload:
-  - '+.ricepointconnect.com'
   - '+.fraudprevention.jp'
   - '+.datadoghq.com'
   - '+.makeshop.jp'
   - '+.line-scdn.net'
+  - '+.minorie-shop.com'
   - '+.d2-apps.net'
   - '+.yjtag.jp'
   - '+.criteo.com'
